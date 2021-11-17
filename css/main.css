@@ -98,7 +98,7 @@ footer {
   flex-flow: row wrap;
 }
 
-header .content-wrapper {
+header .header-wrapper {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -139,7 +139,7 @@ li {
 
 /* ============= Hero ============ */
 
-.hero-area {
+.hero {
   display: flex;
   justify-content: center;
   flex-flow: row wrap;
@@ -156,13 +156,13 @@ aside {
 
 /* ============= Features ============ */
 
-.features-area {
+.features {
   display: flex;
   justify-content: center;
   flex-flow: row wrap;
 }
 
-.features-area .features-item {
+.features .features-item {
   display: flex;
   justify-content: center;
   flex-flow: row wrap;
@@ -170,7 +170,7 @@ aside {
 
 /* ============= Reviews ============ */
 
-.reviews-area {
+.reviews {
   display: flex;
   justify-content: center;
   flex-flow: row wrap;
@@ -178,7 +178,7 @@ aside {
 
 /* ============= About Page ============ */
 
-   .mission-area {
+   .mission {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -194,7 +194,7 @@ aside {
   
   /* =========== FAQ Page =============== */
   
-  .faq-area {
+  .faq {
     display: flex;
     justify-content: center;
     align-items: center;
